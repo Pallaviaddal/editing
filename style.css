@@ -1,0 +1,59 @@
+.edit{
+    background-color: black;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+.nav-left{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.vl{
+    border-left: 6px solid rgb(243, 247, 243);
+    height: 600px;
+}
+.gif{
+    width: 100px;
+    transform: translatex(-52px);
+}
+.gif1{
+    width: 100px;
+    transform: translatex(-52px);
+}
+.gif2{
+    width: 100px;
+    transform: translatex(-52px);
+}
+.gif3{
+    width: 100px;
+    transform: translatex(-52px);
+}
+.nav-right{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.jpg{
+    width: 150px;
+   box-shadow: 5px 4px 4px 4px purple;
+   /*border: 2px solid #fff;*/
+   border-radius: 30px;
+   transform: translateX(400px);
+   transform: translateY(-60px);
+}
+.jpg1{
+    width: 150px;
+   box-shadow: 5px 4px 4px 4px purple;
+   /*border: 2px solid #fff;*/
+   border-radius: 30px;
+   transform: translateX(-300px);
+}
+.jpg2{
+    width: 150px;
+   box-shadow: 5px 4px 4px 4px purple;
+   /*border: 2px solid #fff;*/
+   border-radius: 30px;
+   text-align: center;
+}
+.video{
+    transform: translateY(-410px);
+    text-align: center;
+}
